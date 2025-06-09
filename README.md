@@ -36,7 +36,7 @@ Click below to launch the tutorial directly in Google Colab (no installation req
 git clone https://github.com/YourUsername/AI-Tutorial-From-Zero-To-Advanced.git
 cd AI-Tutorial-From-Zero-To-Advanced
 ```
-2. Install dependencies:
+2. Open Notebook
 ```bash
 jupyter notebook AI-Tutorial-From-Zero-To-Advanced.ipynb
 ```
